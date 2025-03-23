@@ -63,7 +63,7 @@ export function LoginForm({
         </CardContent>
       </Card>
       <div className="text-muted-foreground *:[a]:hover:text-primary text-center text-xs text-balance *:[a]:underline *:[a]:underline-offset-4">
-        Copyright here, all rights reserved
+        JBR Hospital, all rights reserved
       </div>
     </div>
   );
